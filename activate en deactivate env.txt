@@ -1,0 +1,23 @@
+ga naar de betreffende map
+(cd "Github Repo's")
+
+eenmaal:
+python -m venv venv
+-
+dan:
+Set-ExecutionPolicy Unrestricted -Scope Process
+venv\Scripts\activate.ps1
+
+en
+
+deactivate
+
+---------------------------
+
+Heb de betreffende repo op privé gezet.
+
+Moet de API keys verwijderen uit Github geschiedenis (gitguardian gaf waarschuwing). Ik had de .env file verwijderd, maar nu toch opnieuw weer toegevoegd.
+
+Maar hij zou die sowieso moeten negeren, nou goed.
+
+Vereist nog even wat aandacht voordat ik hem weer publiekelijk maak.
