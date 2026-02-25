@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 www.beugelsenmeer.nl
 www.spar.nl
 www.nationalevacaturebank.nl
@@ -435,4 +434,3 @@ www.bigbank.nl
 www.worldexperts.nl
 www.huisdierenverzekeringen.nl
 www.ad.nl
->>>>>>> 25e27b97d4429d5d9191392f0cb935af9de926fb
