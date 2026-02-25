@@ -1,0 +1,74 @@
+Oké misschien kan ik toch een paar doelen bedenken voor mijn webcrawler.
+
+Een gepersonaliseerde nieuws-feed. Kan natuurlijk.
+
+En ik kan hem proberen te optimaliseren om de meest interessante artikelen voorrang te geven.
+
+Dat kan.
+
+Kost best wel wat werk waarschijnlijk voordat het leuk wordt.
+
+Maar het kan.
+
+-
+
+Ik kan hem laten zoeken op begrippen.
+
+Ik kan hem ook met een AI koppelen. NLP wordt gesuggereerd. Maar ja, dat kan ook geavanceerder natuurlijk.
+
+-
+
+In combinatie met AI inderdaad zeer interessant.
+
+-
+
+Alternatief nieuws onderzoeken.
+
+Podcast transcripties analyseren bijvoorbeeld. Om audio informatie te verzamelen.
+
+-
+
+Ja er zijn nog wel wat dingen te verzinnen hoor.
+
+Dit project is echt nog niet dood.
+
+Je moet je best er even voor doen.
+
+Kijken of ik dit ook voor de andere projecten kan verzinnen.
+
+-
+
+Sterker nog, het gaat niet eens om het nut.
+
+Maar om het programmeren.
+
+Dingen uitproberen. Gewoon voor de variatie. Omdat je toch wel wilt programmeren.
+
+Dan maakt het niet zoveel uit wat.
+
+Probeer gewoon je best te doen.
+
+Ga uit van prioriteiten. Wat je het belangrijkst vind TEN OPZICHTE VAN DE REST.
+
+Bovenaan, uitvoeren.
+
+Het gaat om dat je bezig bent/blijft.
+
+Het hoeft niks op te leveren.
+
+Probeer gewoon dingen uit. Ben "in beweging".
+
+-
+
+En... "programmeer technisch"??
+
+Weet je wat je te wachten staat?? Op programmeer gebied?
+
+Ja keyword zoeken is natuurlijk vrij makkelijk. Lijkt mij.
+
+Toch moet ik het nog maar eens zien te implementeren. Maar het lijkt mij makkelijk.
+
+NLP Watson, heet het volgens mij. Kan ik ook analyses van tekst laten doen, denk ik.
+
+
+

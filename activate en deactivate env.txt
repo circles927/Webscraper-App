@@ -14,10 +14,6 @@ deactivate
 
 ---------------------------
 
-Heb de betreffende repo op privé gezet.
+Geen API keys opslaan hier!
 
-Moet de API keys verwijderen uit Github geschiedenis (gitguardian gaf waarschuwing). Ik had de .env file verwijderd, maar nu toch opnieuw weer toegevoegd.
 
-Maar hij zou die sowieso moeten negeren, nou goed.
-
-Vereist nog even wat aandacht voordat ik hem weer publiekelijk maak.
