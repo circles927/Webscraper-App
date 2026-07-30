@@ -1,0 +1,12 @@
+Oké dus ik ben begonnen om ontwerpen van apps in html/css vast te leggen.
+
+Er zijn twee software projecten voor wie dat interessant is.
+
+Voor:
+- De Aandelenkoers App
+- De Webcrawler/scraper
+
+Maar het is hier tot dusver nog niet nodig.
+
+Daar zou verandering in kunnen komen.
+
